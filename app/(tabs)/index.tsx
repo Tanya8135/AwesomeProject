@@ -56,7 +56,7 @@ export default function HomeScreen() {
       </ThemedView>
       <Text style={styles.text1}>
         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quibusdam,
-        corrupti.
+        corrupti. 
       </Text>
     </ParallaxScrollView>
   );
@@ -80,6 +80,6 @@ const styles = StyleSheet.create({
     position: "absolute",
   },
   text1: {
-    color: "#22E138",
+    color: "#22E148",
   },
 });
