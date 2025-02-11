@@ -4,7 +4,7 @@ import { Symbol } from "expo-symbols";
 export default function StarScreen() {
   return (
     <View>
-      <Symbol />
+      <Symbol /> {/* Add icon */}
       <Text>Star Screen</Text>
     </View>
   );
