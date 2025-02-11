@@ -50,11 +50,10 @@ export default function TabLayout() {
         options={{
           title: "Star",
           tabBarIcon: ({ color }) => (
-            <IconSymbol size={28} name="star.fill" color={"#00000"} />
+            <IconSymbol size={28} name="star.fill" color={"#850E5C"} />
           ),
         }}
       />
     </Tabs>
   );
 }
-
